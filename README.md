@@ -11,3 +11,8 @@ Steps :
 4. Split the dataset into training, validation, and testing sets.
 5. Train a machine learning model, such as a CNN, on the dataset.
 6. Evaluate the model's performance using metrics like accuracy, precision, recall, and F1 score.
+
+
+Frontend:
+Here the user can login and enter there angle and check whether the user has knock knees or not .
+If the person has knock knees the user is directed to a new page where the user can select there  age group and respective treatment is shown.
